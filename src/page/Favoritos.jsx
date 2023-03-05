@@ -4,7 +4,6 @@ import {UserContext} from "../context/UserContext"
 
 
 
-
 export default function Favoritos() {
   
   const {photos} = useContext(UserContext);
